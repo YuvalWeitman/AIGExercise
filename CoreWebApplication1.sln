@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApplication1", "CoreWebApplication1.csproj", "{3C834621-41F1-4DA3-B221-32761E450655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnoozeScheduler", "SnoozeScheduler\SnoozeScheduler.csproj", "{D45CCD7F-693A-4063-98AF-0A513ACB5800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C834621-41F1-4DA3-B221-32761E450655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C834621-41F1-4DA3-B221-32761E450655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C834621-41F1-4DA3-B221-32761E450655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C834621-41F1-4DA3-B221-32761E450655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45CCD7F-693A-4063-98AF-0A513ACB5800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45CCD7F-693A-4063-98AF-0A513ACB5800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45CCD7F-693A-4063-98AF-0A513ACB5800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45CCD7F-693A-4063-98AF-0A513ACB5800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {489641D6-5998-4D25-A849-78E16D458DF4}
+	EndGlobalSection
+EndGlobal
